@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="bact_order",
-    version="0.0.1",
+    version="0.0.2",
     description="Author: J.Iszatt\nPython script to reorder bacterial genomes from bakta output",
     url="https://github.com/JoshuaIszatt",
     author="Joshua Iszatt",
