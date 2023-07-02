@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="bakorder",
+    name="bact_order",
     version="0.0.1",
     description="Author: J.Iszatt\nPython script to reorder bacterial genomes from bakta output",
     url="https://github.com/JoshuaIszatt",
@@ -12,7 +12,7 @@ setup(
     install_requires=["biopython==1.81", "pandas==1.5.3"],
     entry_points={
         'console_scripts': [
-            'bakorder.py = Bakorder.main:main',
+            'bact_order.py = Bakorder.main:main',
         ],
     },
     include_package_data=True,
