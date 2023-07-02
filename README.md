@@ -7,7 +7,7 @@ Also, it will ONLY reorder the first contig.
 
 # Install
 ```sh
-pip install bact-order==0.0.1
+pip install bact-order==0.0.2
 ```
 
 # Usage
